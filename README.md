@@ -13,7 +13,9 @@ Add your timetable
 ### STEP 4
 Execute the program
 
+
 # CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,7 +109,7 @@ Execute the program
 </table>
 </body>
 </html>
-
+```
 
 # OUPUT
 ![image](https://user-images.githubusercontent.com/118708624/213968444-574ca546-17f6-4c11-a8db-fd6b71eae7eb.png)
@@ -118,4 +120,5 @@ HTML VALIDATOR
 
 
 RESULT
-The program for creating slot timetable is completed successfully
+
+The program for creating slot timetable is completed successfully.
